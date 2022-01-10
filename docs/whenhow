@@ -1,0 +1,29 @@
+---
+permalink: /whenhow.html
+layout: default
+---
+<body style="background-color:black;">
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+<div class="container">
+  <h1 style="color:white;">Method Riddle</h1>
+
+  <p style="color:white;text-align:left;"><strong>The site and the proposal will be presented at different meetings and congresses during the year 2022 where the different members of the CDAL attend to. 
+
+<br>Finally, a session will be held during the CAA 2023 where all the participants will be able to show their conclusions on the proposed project and the methods they used. All this will be compiled in a publication, hoping to bring some valuable insights for archaeological method and theory.</strong></p>
+
+</div>
+
+<div class="container">
